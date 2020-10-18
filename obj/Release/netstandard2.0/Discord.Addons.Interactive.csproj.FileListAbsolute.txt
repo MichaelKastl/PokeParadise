@@ -1,0 +1,8 @@
+D:\Discord.Interactive Custom\Discord.Addons.Interactive-master\Discord.Addons.Interactive\bin\Release\netstandard2.0\Discord.Addons.Interactive.deps.json
+D:\Discord.Interactive Custom\Discord.Addons.Interactive-master\Discord.Addons.Interactive\bin\Release\netstandard2.0\Discord.Addons.Interactive.dll
+D:\Discord.Interactive Custom\Discord.Addons.Interactive-master\Discord.Addons.Interactive\bin\Release\netstandard2.0\Discord.Addons.Interactive.pdb
+D:\Discord.Interactive Custom\Discord.Addons.Interactive-master\Discord.Addons.Interactive\obj\Release\netstandard2.0\Discord.Addons.Interactive.AssemblyInfoInputs.cache
+D:\Discord.Interactive Custom\Discord.Addons.Interactive-master\Discord.Addons.Interactive\obj\Release\netstandard2.0\Discord.Addons.Interactive.AssemblyInfo.cs
+D:\Discord.Interactive Custom\Discord.Addons.Interactive-master\Discord.Addons.Interactive\obj\Release\netstandard2.0\Discord.Addons.Interactive.csproj.CoreCompileInputs.cache
+D:\Discord.Interactive Custom\Discord.Addons.Interactive-master\Discord.Addons.Interactive\obj\Release\netstandard2.0\Discord.Addons.Interactive.dll
+D:\Discord.Interactive Custom\Discord.Addons.Interactive-master\Discord.Addons.Interactive\obj\Release\netstandard2.0\Discord.Addons.Interactive.pdb

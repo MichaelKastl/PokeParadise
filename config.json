@@ -1,0 +1,12 @@
+{
+    "Token": "NzYxMjg0NjY0OTMzNDgyNTE2.X3YXmA._V7b8rJGa7U2c5SzQCq6NnYhTK0",
+    "Prefix": ">",
+    "exclude": [
+        "**/bin",
+        "**/bower_components",
+        "**/jspm_packages",
+        "**/node_modules",
+        "**/obj",
+        "**/platforms"
+    ]
+}
