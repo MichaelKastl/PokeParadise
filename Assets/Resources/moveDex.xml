@@ -1,0 +1,3739 @@
+<?xml version="1.0"?>
+<ArrayOfMove xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Move>
+    <id>0</id>
+    <name>pound</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>A basic performance using a move known by the Pokémon.</flavorText>
+    <appeal>3</appeal>
+    <contestType>tough</contestType>
+  </Move>
+  <Move>
+    <id>1</id>
+    <name>karate-chop</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>A basic performance using a move known by the Pokémon.</flavorText>
+    <appeal>3</appeal>
+    <contestType>tough</contestType>
+  </Move>
+  <Move>
+    <id>2</id>
+    <name>double-slap</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Allows performance of the same move twice in a row.</flavorText>
+    <appeal>2</appeal>
+    <contestType>tough</contestType>
+  </Move>
+  <Move>
+    <id>3</id>
+    <name>comet-punch</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Allows performance of the same move twice in a row.</flavorText>
+    <appeal>2</appeal>
+    <contestType>tough</contestType>
+  </Move>
+  <Move>
+    <id>4</id>
+    <name>mega-punch</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +2 if the Pokémon performs last in the turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>tough</contestType>
+  </Move>
+  <Move>
+    <id>5</id>
+    <name>pay-day</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +3 if the Pokémon gets the lowest score.</flavorText>
+    <appeal>1</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>6</id>
+    <name>fire-punch</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +2 if the Pokémon performs first in the turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>beauty</contestType>
+  </Move>
+  <Move>
+    <id>7</id>
+    <name>ice-punch</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +2 if the Pokémon performs first in the turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>beauty</contestType>
+  </Move>
+  <Move>
+    <id>8</id>
+    <name>thunder-punch</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +2 if the Pokémon performs first in the turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>cool</contestType>
+  </Move>
+  <Move>
+    <id>9</id>
+    <name>scratch</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>A basic performance using a move known by the Pokémon.</flavorText>
+    <appeal>3</appeal>
+    <contestType>tough</contestType>
+  </Move>
+  <Move>
+    <id>10</id>
+    <name>vise-grip</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>A basic performance using a move known by the Pokémon.</flavorText>
+    <appeal>3</appeal>
+    <contestType>tough</contestType>
+  </Move>
+  <Move>
+    <id>11</id>
+    <name>guillotine</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +15 if all the Pokémon choose the same Judge.</flavorText>
+    <appeal>0</appeal>
+    <contestType>cool</contestType>
+  </Move>
+  <Move>
+    <id>12</id>
+    <name>razor-wind</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +3 if no other Pokémon has chosen the same Judge.</flavorText>
+    <appeal>1</appeal>
+    <contestType>cool</contestType>
+  </Move>
+  <Move>
+    <id>13</id>
+    <name>swords-dance</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn double the score in the next turn.</flavorText>
+    <appeal>0</appeal>
+    <contestType>beauty</contestType>
+  </Move>
+  <Move>
+    <id>14</id>
+    <name>cut</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>A basic performance using a move known by the Pokémon.</flavorText>
+    <appeal>3</appeal>
+    <contestType>cool</contestType>
+  </Move>
+  <Move>
+    <id>15</id>
+    <name>gust</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>A basic performance using a move known by the Pokémon.</flavorText>
+    <appeal>3</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>16</id>
+    <name>wing-attack</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>A basic performance using a move known by the Pokémon.</flavorText>
+    <appeal>3</appeal>
+    <contestType>cool</contestType>
+  </Move>
+  <Move>
+    <id>17</id>
+    <name>whirlwind</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +15 if all the Pokémon choose the same Judge.</flavorText>
+    <appeal>0</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>18</id>
+    <name>fly</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +3 if no other Pokémon has chosen the same Judge.</flavorText>
+    <appeal>1</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>19</id>
+    <name>bind</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn a higher score the later the Pokémon performs.</flavorText>
+    <appeal>0</appeal>
+    <contestType>tough</contestType>
+  </Move>
+  <Move>
+    <id>20</id>
+    <name>slam</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>A basic performance using a move known by the Pokémon.</flavorText>
+    <appeal>3</appeal>
+    <contestType>tough</contestType>
+  </Move>
+  <Move>
+    <id>21</id>
+    <name>vine-whip</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>A basic performance using a move known by the Pokémon.</flavorText>
+    <appeal>3</appeal>
+    <contestType>cool</contestType>
+  </Move>
+  <Move>
+    <id>22</id>
+    <name>stomp</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>A basic performance using a move known by the Pokémon.</flavorText>
+    <appeal>3</appeal>
+    <contestType>tough</contestType>
+  </Move>
+  <Move>
+    <id>23</id>
+    <name>double-kick</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Allows performance of the same move twice in a row.</flavorText>
+    <appeal>2</appeal>
+    <contestType>cool</contestType>
+  </Move>
+  <Move>
+    <id>24</id>
+    <name>mega-kick</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +2 if the Pokémon performs last in the turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>cool</contestType>
+  </Move>
+  <Move>
+    <id>25</id>
+    <name>jump-kick</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>A basic performance using a move known by the Pokémon.</flavorText>
+    <appeal>3</appeal>
+    <contestType>cool</contestType>
+  </Move>
+  <Move>
+    <id>26</id>
+    <name>rolling-kick</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>A basic performance using a move known by the Pokémon.</flavorText>
+    <appeal>3</appeal>
+    <contestType>cool</contestType>
+  </Move>
+  <Move>
+    <id>27</id>
+    <name>sand-attack</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Prevents the Voltage from going down in the same turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>cute</contestType>
+  </Move>
+  <Move>
+    <id>28</id>
+    <name>headbutt</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>A basic performance using a move known by the Pokémon.</flavorText>
+    <appeal>3</appeal>
+    <contestType>tough</contestType>
+  </Move>
+  <Move>
+    <id>29</id>
+    <name>horn-attack</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>A basic performance using a move known by the Pokémon.</flavorText>
+    <appeal>3</appeal>
+    <contestType>cool</contestType>
+  </Move>
+  <Move>
+    <id>30</id>
+    <name>fury-attack</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Allows performance of the same move twice in a row.</flavorText>
+    <appeal>2</appeal>
+    <contestType>cool</contestType>
+  </Move>
+  <Move>
+    <id>31</id>
+    <name>horn-drill</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +15 if all the Pokémon choose the same Judge.</flavorText>
+    <appeal>0</appeal>
+    <contestType>cool</contestType>
+  </Move>
+  <Move>
+    <id>32</id>
+    <name>tackle</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>A basic performance using a move known by the Pokémon.</flavorText>
+    <appeal>3</appeal>
+    <contestType>tough</contestType>
+  </Move>
+  <Move>
+    <id>33</id>
+    <name>body-slam</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>A basic performance using a move known by the Pokémon.</flavorText>
+    <appeal>3</appeal>
+    <contestType>tough</contestType>
+  </Move>
+  <Move>
+    <id>34</id>
+    <name>wrap</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn a higher score the later the Pokémon performs.</flavorText>
+    <appeal>0</appeal>
+    <contestType>tough</contestType>
+  </Move>
+  <Move>
+    <id>35</id>
+    <name>take-down</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>A basic performance using a move known by the Pokémon.</flavorText>
+    <appeal>3</appeal>
+    <contestType>tough</contestType>
+  </Move>
+  <Move>
+    <id>36</id>
+    <name>thrash</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Allows performance of the same move twice in a row.</flavorText>
+    <appeal>2</appeal>
+    <contestType>tough</contestType>
+  </Move>
+  <Move>
+    <id>37</id>
+    <name>double-edge</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +15 if all the Pokémon choose the same Judge.</flavorText>
+    <appeal>0</appeal>
+    <contestType>tough</contestType>
+  </Move>
+  <Move>
+    <id>38</id>
+    <name>tail-whip</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Prevents the Voltage from going down in the same turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>cute</contestType>
+  </Move>
+  <Move>
+    <id>39</id>
+    <name>poison-sting</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Prevents the Voltage from going down in the same turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>40</id>
+    <name>twineedle</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Allows performance of the same move twice in a row.</flavorText>
+    <appeal>2</appeal>
+    <contestType>cool</contestType>
+  </Move>
+  <Move>
+    <id>41</id>
+    <name>pin-missile</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Allows performance of the same move twice in a row.</flavorText>
+    <appeal>2</appeal>
+    <contestType>cool</contestType>
+  </Move>
+  <Move>
+    <id>42</id>
+    <name>leer</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Prevents the Voltage from going down in the same turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>cool</contestType>
+  </Move>
+  <Move>
+    <id>43</id>
+    <name>bite</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>A basic performance using a move known by the Pokémon.</flavorText>
+    <appeal>3</appeal>
+    <contestType>tough</contestType>
+  </Move>
+  <Move>
+    <id>44</id>
+    <name>growl</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Prevents the Voltage from going down in the same turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>cute</contestType>
+  </Move>
+  <Move>
+    <id>45</id>
+    <name>roar</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Prevents the Voltage from going down in the same turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>cool</contestType>
+  </Move>
+  <Move>
+    <id>46</id>
+    <name>sing</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Prevents the Voltage from going down in the same turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>cute</contestType>
+  </Move>
+  <Move>
+    <id>47</id>
+    <name>supersonic</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Prevents the Voltage from going down in the same turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>48</id>
+    <name>sonic-boom</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>A basic performance using a move known by the Pokémon.</flavorText>
+    <appeal>3</appeal>
+    <contestType>cool</contestType>
+  </Move>
+  <Move>
+    <id>49</id>
+    <name>disable</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Prevents the Voltage from going down in the same turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>50</id>
+    <name>acid</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>A basic performance using a move known by the Pokémon.</flavorText>
+    <appeal>3</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>51</id>
+    <name>ember</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>A basic performance using a move known by the Pokémon.</flavorText>
+    <appeal>3</appeal>
+    <contestType>beauty</contestType>
+  </Move>
+  <Move>
+    <id>52</id>
+    <name>flamethrower</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +2 if the Pokémon performs first in the turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>beauty</contestType>
+  </Move>
+  <Move>
+    <id>53</id>
+    <name>mist</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Prevents the Voltage from going up in the same turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>beauty</contestType>
+  </Move>
+  <Move>
+    <id>54</id>
+    <name>water-gun</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>A basic performance using a move known by the Pokémon.</flavorText>
+    <appeal>3</appeal>
+    <contestType>cute</contestType>
+  </Move>
+  <Move>
+    <id>55</id>
+    <name>hydro-pump</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +2 if the Pokémon performs first in the turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>beauty</contestType>
+  </Move>
+  <Move>
+    <id>56</id>
+    <name>surf</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +2 if the Pokémon performs first in the turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>beauty</contestType>
+  </Move>
+  <Move>
+    <id>57</id>
+    <name>ice-beam</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +2 if the Pokémon performs first in the turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>beauty</contestType>
+  </Move>
+  <Move>
+    <id>58</id>
+    <name>blizzard</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +2 if the Pokémon performs first in the turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>beauty</contestType>
+  </Move>
+  <Move>
+    <id>59</id>
+    <name>psybeam</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +2 if the Pokémon performs first in the turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>beauty</contestType>
+  </Move>
+  <Move>
+    <id>60</id>
+    <name>bubble-beam</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Enables the user to perform last in the next turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>beauty</contestType>
+  </Move>
+  <Move>
+    <id>61</id>
+    <name>aurora-beam</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +2 if the Pokémon performs first in the turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>beauty</contestType>
+  </Move>
+  <Move>
+    <id>62</id>
+    <name>hyper-beam</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +3 if the Pokémon that just went hit max Voltage.</flavorText>
+    <appeal>2</appeal>
+    <contestType>cool</contestType>
+  </Move>
+  <Move>
+    <id>63</id>
+    <name>peck</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>A basic performance using a move known by the Pokémon.</flavorText>
+    <appeal>3</appeal>
+    <contestType>cool</contestType>
+  </Move>
+  <Move>
+    <id>64</id>
+    <name>drill-peck</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>A basic performance using a move known by the Pokémon.</flavorText>
+    <appeal>3</appeal>
+    <contestType>cool</contestType>
+  </Move>
+  <Move>
+    <id>65</id>
+    <name>submission</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>A basic performance using a move known by the Pokémon.</flavorText>
+    <appeal>3</appeal>
+    <contestType>cool</contestType>
+  </Move>
+  <Move>
+    <id>66</id>
+    <name>low-kick</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>A basic performance using a move known by the Pokémon.</flavorText>
+    <appeal>3</appeal>
+    <contestType>tough</contestType>
+  </Move>
+  <Move>
+    <id>67</id>
+    <name>counter</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earns double the score on the final performance.</flavorText>
+    <appeal>2</appeal>
+    <contestType>tough</contestType>
+  </Move>
+  <Move>
+    <id>68</id>
+    <name>seismic-toss</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>A basic performance using a move known by the Pokémon.</flavorText>
+    <appeal>3</appeal>
+    <contestType>tough</contestType>
+  </Move>
+  <Move>
+    <id>69</id>
+    <name>strength</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>A basic performance using a move known by the Pokémon.</flavorText>
+    <appeal>3</appeal>
+    <contestType>tough</contestType>
+  </Move>
+  <Move>
+    <id>70</id>
+    <name>absorb</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +3 if two Pokémon raise the Voltage in a row.</flavorText>
+    <appeal>1</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>71</id>
+    <name>mega-drain</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +3 if two Pokémon raise the Voltage in a row.</flavorText>
+    <appeal>1</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>72</id>
+    <name>leech-seed</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn a higher score the later the Pokémon performs.</flavorText>
+    <appeal>0</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>73</id>
+    <name>growth</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn double the score in the next turn.</flavorText>
+    <appeal>0</appeal>
+    <contestType>beauty</contestType>
+  </Move>
+  <Move>
+    <id>74</id>
+    <name>razor-leaf</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>A basic performance using a move known by the Pokémon.</flavorText>
+    <appeal>3</appeal>
+    <contestType>cool</contestType>
+  </Move>
+  <Move>
+    <id>75</id>
+    <name>solar-beam</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +3 if no other Pokémon has chosen the same Judge.</flavorText>
+    <appeal>1</appeal>
+    <contestType>cool</contestType>
+  </Move>
+  <Move>
+    <id>76</id>
+    <name>poison-powder</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Prevents the Voltage from going down in the same turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>77</id>
+    <name>stun-spore</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Prevents the Voltage from going down in the same turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>78</id>
+    <name>sleep-powder</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Prevents the Voltage from going down in the same turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>79</id>
+    <name>petal-dance</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn a higher score the later the Pokémon performs.</flavorText>
+    <appeal>0</appeal>
+    <contestType>beauty</contestType>
+  </Move>
+  <Move>
+    <id>80</id>
+    <name>string-shot</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Prevents the Voltage from going down in the same turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>81</id>
+    <name>dragon-rage</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>A basic performance using a move known by the Pokémon.</flavorText>
+    <appeal>3</appeal>
+    <contestType>cool</contestType>
+  </Move>
+  <Move>
+    <id>82</id>
+    <name>fire-spin</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn a higher score the later the Pokémon performs.</flavorText>
+    <appeal>0</appeal>
+    <contestType>beauty</contestType>
+  </Move>
+  <Move>
+    <id>83</id>
+    <name>thunder-shock</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>A basic performance using a move known by the Pokémon.</flavorText>
+    <appeal>3</appeal>
+    <contestType>cool</contestType>
+  </Move>
+  <Move>
+    <id>84</id>
+    <name>thunderbolt</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +2 if the Pokémon performs first in the turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>cool</contestType>
+  </Move>
+  <Move>
+    <id>85</id>
+    <name>thunder-wave</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Prevents the Voltage from going down in the same turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>cool</contestType>
+  </Move>
+  <Move>
+    <id>86</id>
+    <name>thunder</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +2 if the Pokémon performs first in the turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>cool</contestType>
+  </Move>
+  <Move>
+    <id>87</id>
+    <name>rock-throw</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>A basic performance using a move known by the Pokémon.</flavorText>
+    <appeal>3</appeal>
+    <contestType>tough</contestType>
+  </Move>
+  <Move>
+    <id>88</id>
+    <name>earthquake</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +2 if the Pokémon performs last in the turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>tough</contestType>
+  </Move>
+  <Move>
+    <id>89</id>
+    <name>fissure</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +15 if all the Pokémon choose the same Judge.</flavorText>
+    <appeal>0</appeal>
+    <contestType>tough</contestType>
+  </Move>
+  <Move>
+    <id>90</id>
+    <name>dig</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +3 if no other Pokémon has chosen the same Judge.</flavorText>
+    <appeal>1</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>91</id>
+    <name>toxic</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Prevents the Voltage from going down in the same turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>92</id>
+    <name>confusion</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>A basic performance using a move known by the Pokémon.</flavorText>
+    <appeal>3</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>93</id>
+    <name>psychic</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +2 if the Pokémon performs first in the turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>94</id>
+    <name>hypnosis</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Prevents the Voltage from going down in the same turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>95</id>
+    <name>meditate</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn double the score in the next turn.</flavorText>
+    <appeal>0</appeal>
+    <contestType>beauty</contestType>
+  </Move>
+  <Move>
+    <id>96</id>
+    <name>agility</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Enables the user to perform first in the next turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>cool</contestType>
+  </Move>
+  <Move>
+    <id>97</id>
+    <name>quick-attack</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Enables the user to perform first in the next turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>cool</contestType>
+  </Move>
+  <Move>
+    <id>98</id>
+    <name>rage</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn double the score in the next turn.</flavorText>
+    <appeal>0</appeal>
+    <contestType>cool</contestType>
+  </Move>
+  <Move>
+    <id>99</id>
+    <name>teleport</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Enables the user to perform first in the next turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>cool</contestType>
+  </Move>
+  <Move>
+    <id>100</id>
+    <name>night-shade</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>A basic performance using a move known by the Pokémon.</flavorText>
+    <appeal>3</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>101</id>
+    <name>mimic</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Steals the Voltage of the Pokémon that just went.</flavorText>
+    <appeal>0</appeal>
+    <contestType>cute</contestType>
+  </Move>
+  <Move>
+    <id>102</id>
+    <name>screech</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Lowers the Voltage of all Judges by one each.</flavorText>
+    <appeal>2</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>103</id>
+    <name>double-team</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Enables the user to perform first in the next turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>cool</contestType>
+  </Move>
+  <Move>
+    <id>104</id>
+    <name>recover</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Increased Voltage is added to the performance score.</flavorText>
+    <appeal>0</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>105</id>
+    <name>harden</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Prevents the Voltage from going up in the same turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>tough</contestType>
+  </Move>
+  <Move>
+    <id>106</id>
+    <name>minimize</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Prevents the Voltage from going up in the same turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>cute</contestType>
+  </Move>
+  <Move>
+    <id>107</id>
+    <name>smokescreen</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Lowers the Voltage of all Judges by one each.</flavorText>
+    <appeal>2</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>108</id>
+    <name>confuse-ray</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Lowers the Voltage of all Judges by one each.</flavorText>
+    <appeal>2</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>109</id>
+    <name>withdraw</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Prevents the Voltage from going up in the same turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>cute</contestType>
+  </Move>
+  <Move>
+    <id>110</id>
+    <name>defense-curl</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Prevents the Voltage from going up in the same turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>cute</contestType>
+  </Move>
+  <Move>
+    <id>111</id>
+    <name>barrier</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Prevents the Voltage from going up in the same turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>cool</contestType>
+  </Move>
+  <Move>
+    <id>112</id>
+    <name>light-screen</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Prevents the Voltage from going up in the same turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>beauty</contestType>
+  </Move>
+  <Move>
+    <id>113</id>
+    <name>haze</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Prevents the Voltage from going up in the same turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>beauty</contestType>
+  </Move>
+  <Move>
+    <id>114</id>
+    <name>reflect</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Prevents the Voltage from going up in the same turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>115</id>
+    <name>focus-energy</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn double the score in the next turn.</flavorText>
+    <appeal>0</appeal>
+    <contestType>cool</contestType>
+  </Move>
+  <Move>
+    <id>116</id>
+    <name>bide</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earns double the score on the final performance.</flavorText>
+    <appeal>2</appeal>
+    <contestType>tough</contestType>
+  </Move>
+  <Move>
+    <id>117</id>
+    <name>metronome</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Makes the order of contestants random in the next turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>cute</contestType>
+  </Move>
+  <Move>
+    <id>118</id>
+    <name>mirror-move</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earns double the score on the final performance.</flavorText>
+    <appeal>2</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>119</id>
+    <name>self-destruct</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +15 if all the Pokémon choose the same Judge.</flavorText>
+    <appeal>0</appeal>
+    <contestType>beauty</contestType>
+  </Move>
+  <Move>
+    <id>120</id>
+    <name>egg-bomb</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>A basic performance using a move known by the Pokémon.</flavorText>
+    <appeal>3</appeal>
+    <contestType>tough</contestType>
+  </Move>
+  <Move>
+    <id>121</id>
+    <name>lick</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Raises the score if the Voltage is low.</flavorText>
+    <appeal>0</appeal>
+    <contestType>tough</contestType>
+  </Move>
+  <Move>
+    <id>122</id>
+    <name>smog</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>A basic performance using a move known by the Pokémon.</flavorText>
+    <appeal>3</appeal>
+    <contestType>tough</contestType>
+  </Move>
+  <Move>
+    <id>123</id>
+    <name>sludge</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +2 if the Pokémon performs last in the turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>tough</contestType>
+  </Move>
+  <Move>
+    <id>124</id>
+    <name>bone-club</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>A basic performance using a move known by the Pokémon.</flavorText>
+    <appeal>3</appeal>
+    <contestType>tough</contestType>
+  </Move>
+  <Move>
+    <id>125</id>
+    <name>fire-blast</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +2 if the Pokémon performs first in the turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>beauty</contestType>
+  </Move>
+  <Move>
+    <id>126</id>
+    <name>waterfall</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>A basic performance using a move known by the Pokémon.</flavorText>
+    <appeal>3</appeal>
+    <contestType>tough</contestType>
+  </Move>
+  <Move>
+    <id>127</id>
+    <name>clamp</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>A basic performance using a move known by the Pokémon.</flavorText>
+    <appeal>3</appeal>
+    <contestType>tough</contestType>
+  </Move>
+  <Move>
+    <id>128</id>
+    <name>swift</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +2 if the Pokémon performs first in the turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>cool</contestType>
+  </Move>
+  <Move>
+    <id>129</id>
+    <name>skull-bash</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +3 if no other Pokémon has chosen the same Judge.</flavorText>
+    <appeal>1</appeal>
+    <contestType>tough</contestType>
+  </Move>
+  <Move>
+    <id>130</id>
+    <name>spike-cannon</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Allows performance of the same move twice in a row.</flavorText>
+    <appeal>2</appeal>
+    <contestType>cool</contestType>
+  </Move>
+  <Move>
+    <id>131</id>
+    <name>constrict</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn a higher score the later the Pokémon performs.</flavorText>
+    <appeal>0</appeal>
+    <contestType>tough</contestType>
+  </Move>
+  <Move>
+    <id>132</id>
+    <name>amnesia</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn double the score in the next turn.</flavorText>
+    <appeal>0</appeal>
+    <contestType>cute</contestType>
+  </Move>
+  <Move>
+    <id>133</id>
+    <name>kinesis</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn double the score in the next turn.</flavorText>
+    <appeal>0</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>134</id>
+    <name>soft-boiled</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Increased Voltage is added to the performance score.</flavorText>
+    <appeal>0</appeal>
+    <contestType>beauty</contestType>
+  </Move>
+  <Move>
+    <id>135</id>
+    <name>high-jump-kick</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>A basic performance using a move known by the Pokémon.</flavorText>
+    <appeal>3</appeal>
+    <contestType>cool</contestType>
+  </Move>
+  <Move>
+    <id>136</id>
+    <name>glare</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Prevents the Voltage from going down in the same turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>tough</contestType>
+  </Move>
+  <Move>
+    <id>137</id>
+    <name>dream-eater</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +3 if two Pokémon raise the Voltage in a row.</flavorText>
+    <appeal>1</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>138</id>
+    <name>poison-gas</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>A basic performance using a move known by the Pokémon.</flavorText>
+    <appeal>3</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>139</id>
+    <name>barrage</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Allows performance of the same move twice in a row.</flavorText>
+    <appeal>2</appeal>
+    <contestType>tough</contestType>
+  </Move>
+  <Move>
+    <id>140</id>
+    <name>leech-life</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +3 if two Pokémon raise the Voltage in a row.</flavorText>
+    <appeal>1</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>141</id>
+    <name>lovely-kiss</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Prevents the Voltage from going down in the same turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>beauty</contestType>
+  </Move>
+  <Move>
+    <id>142</id>
+    <name>sky-attack</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +3 if no other Pokémon has chosen the same Judge.</flavorText>
+    <appeal>1</appeal>
+    <contestType>cool</contestType>
+  </Move>
+  <Move>
+    <id>143</id>
+    <name>transform</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +3 if the Pokémon gets the lowest score.</flavorText>
+    <appeal>1</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>144</id>
+    <name>bubble</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Enables the user to perform last in the next turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>cute</contestType>
+  </Move>
+  <Move>
+    <id>145</id>
+    <name>dizzy-punch</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Raises the score if the Voltage is low.</flavorText>
+    <appeal>0</appeal>
+    <contestType>cool</contestType>
+  </Move>
+  <Move>
+    <id>146</id>
+    <name>spore</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Lowers the Voltage of all Judges by one each.</flavorText>
+    <appeal>2</appeal>
+    <contestType>beauty</contestType>
+  </Move>
+  <Move>
+    <id>147</id>
+    <name>flash</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Lowers the Voltage of all Judges by one each.</flavorText>
+    <appeal>2</appeal>
+    <contestType>beauty</contestType>
+  </Move>
+  <Move>
+    <id>148</id>
+    <name>psywave</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>A basic performance using a move known by the Pokémon.</flavorText>
+    <appeal>3</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>149</id>
+    <name>splash</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Raises the score if the Voltage is low.</flavorText>
+    <appeal>0</appeal>
+    <contestType>cute</contestType>
+  </Move>
+  <Move>
+    <id>150</id>
+    <name>acid-armor</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn double the score in the next turn.</flavorText>
+    <appeal>0</appeal>
+    <contestType>tough</contestType>
+  </Move>
+  <Move>
+    <id>151</id>
+    <name>crabhammer</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +2 if the Pokémon performs last in the turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>tough</contestType>
+  </Move>
+  <Move>
+    <id>152</id>
+    <name>explosion</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +15 if all the Pokémon choose the same Judge.</flavorText>
+    <appeal>0</appeal>
+    <contestType>beauty</contestType>
+  </Move>
+  <Move>
+    <id>153</id>
+    <name>fury-swipes</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Allows performance of the same move twice in a row.</flavorText>
+    <appeal>2</appeal>
+    <contestType>tough</contestType>
+  </Move>
+  <Move>
+    <id>154</id>
+    <name>bonemerang</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Allows performance of the same move twice in a row.</flavorText>
+    <appeal>2</appeal>
+    <contestType>tough</contestType>
+  </Move>
+  <Move>
+    <id>155</id>
+    <name>rest</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Increased Voltage is added to the performance score.</flavorText>
+    <appeal>0</appeal>
+    <contestType>cute</contestType>
+  </Move>
+  <Move>
+    <id>156</id>
+    <name>rock-slide</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>A basic performance using a move known by the Pokémon.</flavorText>
+    <appeal>3</appeal>
+    <contestType>tough</contestType>
+  </Move>
+  <Move>
+    <id>157</id>
+    <name>hyper-fang</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +2 if the Pokémon performs last in the turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>cool</contestType>
+  </Move>
+  <Move>
+    <id>158</id>
+    <name>sharpen</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn double the score in the next turn.</flavorText>
+    <appeal>0</appeal>
+    <contestType>cute</contestType>
+  </Move>
+  <Move>
+    <id>159</id>
+    <name>conversion</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +3 if the Pokémon gets the lowest score.</flavorText>
+    <appeal>1</appeal>
+    <contestType>beauty</contestType>
+  </Move>
+  <Move>
+    <id>160</id>
+    <name>tri-attack</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>A basic performance using a move known by the Pokémon.</flavorText>
+    <appeal>3</appeal>
+    <contestType>beauty</contestType>
+  </Move>
+  <Move>
+    <id>161</id>
+    <name>super-fang</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>A basic performance using a move known by the Pokémon.</flavorText>
+    <appeal>3</appeal>
+    <contestType>tough</contestType>
+  </Move>
+  <Move>
+    <id>162</id>
+    <name>slash</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>A basic performance using a move known by the Pokémon.</flavorText>
+    <appeal>3</appeal>
+    <contestType>cool</contestType>
+  </Move>
+  <Move>
+    <id>163</id>
+    <name>substitute</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +3 if the Pokémon gets the lowest score.</flavorText>
+    <appeal>1</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>164</id>
+    <name>struggle</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>A basic performance using a move known by the Pokémon.</flavorText>
+    <appeal>3</appeal>
+    <contestType>cool</contestType>
+  </Move>
+  <Move>
+    <id>165</id>
+    <name>sketch</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +3 if the Pokémon gets the lowest score.</flavorText>
+    <appeal>1</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>166</id>
+    <name>triple-kick</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Allows performance of the same move twice in a row.</flavorText>
+    <appeal>2</appeal>
+    <contestType>cool</contestType>
+  </Move>
+  <Move>
+    <id>167</id>
+    <name>thief</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Steals the Voltage of the Pokémon that just went.</flavorText>
+    <appeal>0</appeal>
+    <contestType>tough</contestType>
+  </Move>
+  <Move>
+    <id>168</id>
+    <name>spider-web</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Prevents the Voltage from going up in the same turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>169</id>
+    <name>mind-reader</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +3 if two Pokémon raise the Voltage in a row.</flavorText>
+    <appeal>1</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>170</id>
+    <name>nightmare</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Prevents the Voltage from going down in the same turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>171</id>
+    <name>flame-wheel</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Allows performance of the same move twice in a row.</flavorText>
+    <appeal>2</appeal>
+    <contestType>beauty</contestType>
+  </Move>
+  <Move>
+    <id>172</id>
+    <name>snore</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>A basic performance using a move known by the Pokémon.</flavorText>
+    <appeal>3</appeal>
+    <contestType>cute</contestType>
+  </Move>
+  <Move>
+    <id>173</id>
+    <name>curse</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn a higher score the later the Pokémon performs.</flavorText>
+    <appeal>0</appeal>
+    <contestType>tough</contestType>
+  </Move>
+  <Move>
+    <id>174</id>
+    <name>flail</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earns double the score on the final performance.</flavorText>
+    <appeal>2</appeal>
+    <contestType>cute</contestType>
+  </Move>
+  <Move>
+    <id>175</id>
+    <name>conversion-2</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +3 if the Pokémon gets the lowest score.</flavorText>
+    <appeal>1</appeal>
+    <contestType>beauty</contestType>
+  </Move>
+  <Move>
+    <id>176</id>
+    <name>aeroblast</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +3 if the Pokémon that just went hit max Voltage.</flavorText>
+    <appeal>2</appeal>
+    <contestType>cool</contestType>
+  </Move>
+  <Move>
+    <id>177</id>
+    <name>cotton-spore</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Enables the user to perform first in the next turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>beauty</contestType>
+  </Move>
+  <Move>
+    <id>178</id>
+    <name>reversal</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earns double the score on the final performance.</flavorText>
+    <appeal>2</appeal>
+    <contestType>cool</contestType>
+  </Move>
+  <Move>
+    <id>179</id>
+    <name>spite</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Prevents the Voltage from going down in the same turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>tough</contestType>
+  </Move>
+  <Move>
+    <id>180</id>
+    <name>powder-snow</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>A basic performance using a move known by the Pokémon.</flavorText>
+    <appeal>3</appeal>
+    <contestType>beauty</contestType>
+  </Move>
+  <Move>
+    <id>181</id>
+    <name>protect</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Raises the score if the Voltage is low.</flavorText>
+    <appeal>0</appeal>
+    <contestType>cute</contestType>
+  </Move>
+  <Move>
+    <id>182</id>
+    <name>mach-punch</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Enables the user to perform first in the next turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>cool</contestType>
+  </Move>
+  <Move>
+    <id>183</id>
+    <name>scary-face</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Enables the user to perform last in the next turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>tough</contestType>
+  </Move>
+  <Move>
+    <id>184</id>
+    <name>feint-attack</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +2 if the Pokémon performs last in the turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>185</id>
+    <name>sweet-kiss</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Prevents the Voltage from going down in the same turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>cute</contestType>
+  </Move>
+  <Move>
+    <id>186</id>
+    <name>belly-drum</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn double the score in the next turn.</flavorText>
+    <appeal>0</appeal>
+    <contestType>cute</contestType>
+  </Move>
+  <Move>
+    <id>187</id>
+    <name>sludge-bomb</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +2 if the Pokémon performs last in the turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>tough</contestType>
+  </Move>
+  <Move>
+    <id>188</id>
+    <name>mud-slap</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>A basic performance using a move known by the Pokémon.</flavorText>
+    <appeal>3</appeal>
+    <contestType>cute</contestType>
+  </Move>
+  <Move>
+    <id>189</id>
+    <name>octazooka</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +2 if the Judge's Voltage goes up.</flavorText>
+    <appeal>2</appeal>
+    <contestType>tough</contestType>
+  </Move>
+  <Move>
+    <id>190</id>
+    <name>spikes</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Prevents the Voltage from going up in the same turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>191</id>
+    <name>zap-cannon</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +2 if the Judge's Voltage goes up.</flavorText>
+    <appeal>2</appeal>
+    <contestType>cool</contestType>
+  </Move>
+  <Move>
+    <id>192</id>
+    <name>foresight</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +3 if two Pokémon raise the Voltage in a row.</flavorText>
+    <appeal>1</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>193</id>
+    <name>destiny-bond</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +15 if all the Pokémon choose the same Judge.</flavorText>
+    <appeal>0</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>194</id>
+    <name>perish-song</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Lowers the Voltage of all Judges by one each.</flavorText>
+    <appeal>2</appeal>
+    <contestType>beauty</contestType>
+  </Move>
+  <Move>
+    <id>195</id>
+    <name>icy-wind</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Enables the user to perform last in the next turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>beauty</contestType>
+  </Move>
+  <Move>
+    <id>196</id>
+    <name>detect</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Raises the score if the Voltage is low.</flavorText>
+    <appeal>0</appeal>
+    <contestType>cool</contestType>
+  </Move>
+  <Move>
+    <id>197</id>
+    <name>bone-rush</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Allows performance of the same move twice in a row.</flavorText>
+    <appeal>2</appeal>
+    <contestType>tough</contestType>
+  </Move>
+  <Move>
+    <id>198</id>
+    <name>lock-on</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +3 if two Pokémon raise the Voltage in a row.</flavorText>
+    <appeal>1</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>199</id>
+    <name>outrage</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Allows performance of the same move twice in a row.</flavorText>
+    <appeal>2</appeal>
+    <contestType>cool</contestType>
+  </Move>
+  <Move>
+    <id>200</id>
+    <name>sandstorm</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Prevents the Voltage from going up in the same turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>tough</contestType>
+  </Move>
+  <Move>
+    <id>201</id>
+    <name>giga-drain</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +3 if two Pokémon raise the Voltage in a row.</flavorText>
+    <appeal>1</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>202</id>
+    <name>endure</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Prevents the Voltage from going up in the same turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>tough</contestType>
+  </Move>
+  <Move>
+    <id>203</id>
+    <name>charm</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Prevents the Voltage from going down in the same turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>cute</contestType>
+  </Move>
+  <Move>
+    <id>204</id>
+    <name>rollout</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Allows performance of the same move twice in a row.</flavorText>
+    <appeal>2</appeal>
+    <contestType>tough</contestType>
+  </Move>
+  <Move>
+    <id>205</id>
+    <name>false-swipe</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Raises the score if the Voltage is low.</flavorText>
+    <appeal>0</appeal>
+    <contestType>cool</contestType>
+  </Move>
+  <Move>
+    <id>206</id>
+    <name>swagger</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Prevents the Voltage from going down in the same turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>cute</contestType>
+  </Move>
+  <Move>
+    <id>207</id>
+    <name>milk-drink</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Increased Voltage is added to the performance score.</flavorText>
+    <appeal>0</appeal>
+    <contestType>cute</contestType>
+  </Move>
+  <Move>
+    <id>208</id>
+    <name>spark</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>A basic performance using a move known by the Pokémon.</flavorText>
+    <appeal>3</appeal>
+    <contestType>cool</contestType>
+  </Move>
+  <Move>
+    <id>209</id>
+    <name>fury-cutter</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Allows performance of the same move twice in a row.</flavorText>
+    <appeal>2</appeal>
+    <contestType>cool</contestType>
+  </Move>
+  <Move>
+    <id>210</id>
+    <name>steel-wing</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>A basic performance using a move known by the Pokémon.</flavorText>
+    <appeal>3</appeal>
+    <contestType>cool</contestType>
+  </Move>
+  <Move>
+    <id>211</id>
+    <name>mean-look</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Lowers the Voltage of all Judges by one each.</flavorText>
+    <appeal>2</appeal>
+    <contestType>beauty</contestType>
+  </Move>
+  <Move>
+    <id>212</id>
+    <name>attract</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Prevents the Voltage from going down in the same turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>cute</contestType>
+  </Move>
+  <Move>
+    <id>213</id>
+    <name>sleep-talk</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>A basic performance using a move known by the Pokémon.</flavorText>
+    <appeal>3</appeal>
+    <contestType>cute</contestType>
+  </Move>
+  <Move>
+    <id>214</id>
+    <name>heal-bell</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Increased Voltage is added to the performance score.</flavorText>
+    <appeal>0</appeal>
+    <contestType>beauty</contestType>
+  </Move>
+  <Move>
+    <id>215</id>
+    <name>return</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +2 if the Pokémon performs first in the turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>cute</contestType>
+  </Move>
+  <Move>
+    <id>216</id>
+    <name>present</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Raises the score if the Voltage is low.</flavorText>
+    <appeal>0</appeal>
+    <contestType>cute</contestType>
+  </Move>
+  <Move>
+    <id>217</id>
+    <name>frustration</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +2 if the Pokémon performs last in the turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>cute</contestType>
+  </Move>
+  <Move>
+    <id>218</id>
+    <name>safeguard</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Prevents the Voltage from going up in the same turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>beauty</contestType>
+  </Move>
+  <Move>
+    <id>219</id>
+    <name>pain-split</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Lowers the Voltage of all Judges by one each.</flavorText>
+    <appeal>2</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>220</id>
+    <name>sacred-fire</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +3 if the Pokémon that just went hit max Voltage.</flavorText>
+    <appeal>2</appeal>
+    <contestType>beauty</contestType>
+  </Move>
+  <Move>
+    <id>221</id>
+    <name>magnitude</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +2 if the Pokémon performs last in the turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>tough</contestType>
+  </Move>
+  <Move>
+    <id>222</id>
+    <name>dynamic-punch</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +2 if the Pokémon performs last in the turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>cool</contestType>
+  </Move>
+  <Move>
+    <id>223</id>
+    <name>megahorn</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +2 if the Pokémon performs last in the turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>cool</contestType>
+  </Move>
+  <Move>
+    <id>224</id>
+    <name>dragon-breath</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +2 if the Pokémon performs first in the turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>cool</contestType>
+  </Move>
+  <Move>
+    <id>225</id>
+    <name>baton-pass</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Raises the score if the Voltage is low.</flavorText>
+    <appeal>0</appeal>
+    <contestType>cute</contestType>
+  </Move>
+  <Move>
+    <id>226</id>
+    <name>encore</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +3 if two Pokémon raise the Voltage in a row.</flavorText>
+    <appeal>1</appeal>
+    <contestType>cute</contestType>
+  </Move>
+  <Move>
+    <id>227</id>
+    <name>pursuit</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +3 if two Pokémon raise the Voltage in a row.</flavorText>
+    <appeal>1</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>228</id>
+    <name>rapid-spin</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +2 if the Pokémon performs first in the turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>cool</contestType>
+  </Move>
+  <Move>
+    <id>229</id>
+    <name>sweet-scent</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Prevents the Voltage from going down in the same turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>cute</contestType>
+  </Move>
+  <Move>
+    <id>230</id>
+    <name>iron-tail</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +2 if the Pokémon performs last in the turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>cool</contestType>
+  </Move>
+  <Move>
+    <id>231</id>
+    <name>metal-claw</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +2 if the Pokémon performs last in the turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>cool</contestType>
+  </Move>
+  <Move>
+    <id>232</id>
+    <name>vital-throw</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Enables the user to perform last in the next turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>cool</contestType>
+  </Move>
+  <Move>
+    <id>233</id>
+    <name>morning-sun</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Increased Voltage is added to the performance score.</flavorText>
+    <appeal>0</appeal>
+    <contestType>beauty</contestType>
+  </Move>
+  <Move>
+    <id>234</id>
+    <name>synthesis</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Increased Voltage is added to the performance score.</flavorText>
+    <appeal>0</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>235</id>
+    <name>moonlight</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Increased Voltage is added to the performance score.</flavorText>
+    <appeal>0</appeal>
+    <contestType>beauty</contestType>
+  </Move>
+  <Move>
+    <id>236</id>
+    <name>hidden-power</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +3 if the Pokémon gets the lowest score.</flavorText>
+    <appeal>1</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>237</id>
+    <name>cross-chop</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +2 if the Pokémon performs last in the turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>cool</contestType>
+  </Move>
+  <Move>
+    <id>238</id>
+    <name>twister</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>A basic performance using a move known by the Pokémon.</flavorText>
+    <appeal>3</appeal>
+    <contestType>cool</contestType>
+  </Move>
+  <Move>
+    <id>239</id>
+    <name>rain-dance</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Prevents the Voltage from going up in the same turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>tough</contestType>
+  </Move>
+  <Move>
+    <id>240</id>
+    <name>sunny-day</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Prevents the Voltage from going up in the same turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>beauty</contestType>
+  </Move>
+  <Move>
+    <id>241</id>
+    <name>crunch</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +2 if the Pokémon performs last in the turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>tough</contestType>
+  </Move>
+  <Move>
+    <id>242</id>
+    <name>mirror-coat</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earns double the score on the final performance.</flavorText>
+    <appeal>2</appeal>
+    <contestType>beauty</contestType>
+  </Move>
+  <Move>
+    <id>243</id>
+    <name>psych-up</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn double the score in the next turn.</flavorText>
+    <appeal>0</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>244</id>
+    <name>extreme-speed</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Enables the user to perform first in the next turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>cool</contestType>
+  </Move>
+  <Move>
+    <id>245</id>
+    <name>ancient-power</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +2 if the Pokémon performs last in the turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>tough</contestType>
+  </Move>
+  <Move>
+    <id>246</id>
+    <name>shadow-ball</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +2 if the Pokémon performs first in the turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>247</id>
+    <name>future-sight</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +2 if the Pokémon performs first in the turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>248</id>
+    <name>rock-smash</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +2 if the Pokémon performs last in the turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>tough</contestType>
+  </Move>
+  <Move>
+    <id>249</id>
+    <name>whirlpool</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn a higher score the later the Pokémon performs.</flavorText>
+    <appeal>0</appeal>
+    <contestType>beauty</contestType>
+  </Move>
+  <Move>
+    <id>250</id>
+    <name>beat-up</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Allows performance of the same move twice in a row.</flavorText>
+    <appeal>2</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>251</id>
+    <name>fake-out</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +2 if the Pokémon performs first in the turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>cute</contestType>
+  </Move>
+  <Move>
+    <id>252</id>
+    <name>uproar</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Lowers the Voltage of all Judges by one each.</flavorText>
+    <appeal>2</appeal>
+    <contestType>cute</contestType>
+  </Move>
+  <Move>
+    <id>253</id>
+    <name>stockpile</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn double the score in the next turn.</flavorText>
+    <appeal>0</appeal>
+    <contestType>tough</contestType>
+  </Move>
+  <Move>
+    <id>254</id>
+    <name>spit-up</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +2 if the Pokémon performs last in the turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>tough</contestType>
+  </Move>
+  <Move>
+    <id>255</id>
+    <name>swallow</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Increased Voltage is added to the performance score.</flavorText>
+    <appeal>0</appeal>
+    <contestType>tough</contestType>
+  </Move>
+  <Move>
+    <id>256</id>
+    <name>heat-wave</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +2 if the Pokémon performs first in the turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>beauty</contestType>
+  </Move>
+  <Move>
+    <id>257</id>
+    <name>hail</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Prevents the Voltage from going up in the same turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>beauty</contestType>
+  </Move>
+  <Move>
+    <id>258</id>
+    <name>torment</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Raises the score if the Voltage is low.</flavorText>
+    <appeal>0</appeal>
+    <contestType>tough</contestType>
+  </Move>
+  <Move>
+    <id>259</id>
+    <name>flatter</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Prevents the Voltage from going down in the same turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>260</id>
+    <name>will-o-wisp</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +2 if the Pokémon performs first in the turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>beauty</contestType>
+  </Move>
+  <Move>
+    <id>261</id>
+    <name>memento</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +15 if all the Pokémon choose the same Judge.</flavorText>
+    <appeal>0</appeal>
+    <contestType>tough</contestType>
+  </Move>
+  <Move>
+    <id>262</id>
+    <name>facade</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earns double the score on the final performance.</flavorText>
+    <appeal>2</appeal>
+    <contestType>cute</contestType>
+  </Move>
+  <Move>
+    <id>263</id>
+    <name>focus-punch</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +3 if no other Pokémon has chosen the same Judge.</flavorText>
+    <appeal>1</appeal>
+    <contestType>tough</contestType>
+  </Move>
+  <Move>
+    <id>264</id>
+    <name>smelling-salts</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Raises the score if the Voltage is low.</flavorText>
+    <appeal>0</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>265</id>
+    <name>follow-me</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Makes the order of contestants random in the next turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>cute</contestType>
+  </Move>
+  <Move>
+    <id>266</id>
+    <name>nature-power</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Makes the order of contestants random in the next turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>beauty</contestType>
+  </Move>
+  <Move>
+    <id>267</id>
+    <name>charge</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn double the score in the next turn.</flavorText>
+    <appeal>0</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>268</id>
+    <name>taunt</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Raises the score if the Voltage is low.</flavorText>
+    <appeal>0</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>269</id>
+    <name>helping-hand</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +3 if two Pokémon raise the Voltage in a row.</flavorText>
+    <appeal>1</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>270</id>
+    <name>trick</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Steals the Voltage of the Pokémon that just went.</flavorText>
+    <appeal>0</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>271</id>
+    <name>role-play</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +3 if the Pokémon gets the lowest score.</flavorText>
+    <appeal>1</appeal>
+    <contestType>cute</contestType>
+  </Move>
+  <Move>
+    <id>272</id>
+    <name>wish</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Increased Voltage is added to the performance score.</flavorText>
+    <appeal>0</appeal>
+    <contestType>cute</contestType>
+  </Move>
+  <Move>
+    <id>273</id>
+    <name>assist</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Makes the order of contestants random in the next turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>cute</contestType>
+  </Move>
+  <Move>
+    <id>274</id>
+    <name>ingrain</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn a higher score the later the Pokémon performs.</flavorText>
+    <appeal>0</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>275</id>
+    <name>superpower</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +2 if the Pokémon performs last in the turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>tough</contestType>
+  </Move>
+  <Move>
+    <id>276</id>
+    <name>magic-coat</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earns double the score on the final performance.</flavorText>
+    <appeal>2</appeal>
+    <contestType>beauty</contestType>
+  </Move>
+  <Move>
+    <id>277</id>
+    <name>recycle</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Steals the Voltage of the Pokémon that just went.</flavorText>
+    <appeal>0</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>278</id>
+    <name>revenge</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earns double the score on the final performance.</flavorText>
+    <appeal>2</appeal>
+    <contestType>tough</contestType>
+  </Move>
+  <Move>
+    <id>279</id>
+    <name>brick-break</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>A basic performance using a move known by the Pokémon.</flavorText>
+    <appeal>3</appeal>
+    <contestType>cool</contestType>
+  </Move>
+  <Move>
+    <id>280</id>
+    <name>yawn</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Prevents the Voltage from going down in the same turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>cute</contestType>
+  </Move>
+  <Move>
+    <id>281</id>
+    <name>knock-off</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>A basic performance using a move known by the Pokémon.</flavorText>
+    <appeal>3</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>282</id>
+    <name>endeavor</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earns double the score on the final performance.</flavorText>
+    <appeal>2</appeal>
+    <contestType>tough</contestType>
+  </Move>
+  <Move>
+    <id>283</id>
+    <name>eruption</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +2 if the Pokémon performs last in the turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>beauty</contestType>
+  </Move>
+  <Move>
+    <id>284</id>
+    <name>skill-swap</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Steals the Voltage of the Pokémon that just went.</flavorText>
+    <appeal>0</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>285</id>
+    <name>imprison</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +3 if two Pokémon raise the Voltage in a row.</flavorText>
+    <appeal>1</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>286</id>
+    <name>refresh</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Increased Voltage is added to the performance score.</flavorText>
+    <appeal>0</appeal>
+    <contestType>cute</contestType>
+  </Move>
+  <Move>
+    <id>287</id>
+    <name>grudge</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Lowers the Voltage of all Judges by one each.</flavorText>
+    <appeal>2</appeal>
+    <contestType>tough</contestType>
+  </Move>
+  <Move>
+    <id>288</id>
+    <name>snatch</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Steals the Voltage of the Pokémon that just went.</flavorText>
+    <appeal>0</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>289</id>
+    <name>secret-power</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Makes the order of contestants random in the next turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>290</id>
+    <name>dive</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +3 if no other Pokémon has chosen the same Judge.</flavorText>
+    <appeal>1</appeal>
+    <contestType>beauty</contestType>
+  </Move>
+  <Move>
+    <id>291</id>
+    <name>arm-thrust</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Allows performance of the same move twice in a row.</flavorText>
+    <appeal>2</appeal>
+    <contestType>tough</contestType>
+  </Move>
+  <Move>
+    <id>292</id>
+    <name>camouflage</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Prevents the Voltage from going up in the same turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>293</id>
+    <name>tail-glow</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn double the score in the next turn.</flavorText>
+    <appeal>0</appeal>
+    <contestType>beauty</contestType>
+  </Move>
+  <Move>
+    <id>294</id>
+    <name>luster-purge</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +3 if the Pokémon that just went hit max Voltage.</flavorText>
+    <appeal>2</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>295</id>
+    <name>mist-ball</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +3 if the Pokémon that just went hit max Voltage.</flavorText>
+    <appeal>2</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>296</id>
+    <name>feather-dance</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Prevents the Voltage from going down in the same turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>beauty</contestType>
+  </Move>
+  <Move>
+    <id>297</id>
+    <name>teeter-dance</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Makes the order of contestants random in the next turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>cute</contestType>
+  </Move>
+  <Move>
+    <id>298</id>
+    <name>blaze-kick</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +2 if the Pokémon performs first in the turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>beauty</contestType>
+  </Move>
+  <Move>
+    <id>299</id>
+    <name>mud-sport</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Prevents the Voltage from going up in the same turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>cute</contestType>
+  </Move>
+  <Move>
+    <id>300</id>
+    <name>ice-ball</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Allows performance of the same move twice in a row.</flavorText>
+    <appeal>2</appeal>
+    <contestType>beauty</contestType>
+  </Move>
+  <Move>
+    <id>301</id>
+    <name>needle-arm</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>A basic performance using a move known by the Pokémon.</flavorText>
+    <appeal>3</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>302</id>
+    <name>slack-off</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Increased Voltage is added to the performance score.</flavorText>
+    <appeal>0</appeal>
+    <contestType>cute</contestType>
+  </Move>
+  <Move>
+    <id>303</id>
+    <name>hyper-voice</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>A basic performance using a move known by the Pokémon.</flavorText>
+    <appeal>3</appeal>
+    <contestType>cool</contestType>
+  </Move>
+  <Move>
+    <id>304</id>
+    <name>poison-fang</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +2 if the Judge's Voltage goes up.</flavorText>
+    <appeal>2</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>305</id>
+    <name>crush-claw</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>A basic performance using a move known by the Pokémon.</flavorText>
+    <appeal>3</appeal>
+    <contestType>cool</contestType>
+  </Move>
+  <Move>
+    <id>306</id>
+    <name>blast-burn</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +3 if the Pokémon that just went hit max Voltage.</flavorText>
+    <appeal>2</appeal>
+    <contestType>beauty</contestType>
+  </Move>
+  <Move>
+    <id>307</id>
+    <name>hydro-cannon</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +3 if the Pokémon that just went hit max Voltage.</flavorText>
+    <appeal>2</appeal>
+    <contestType>beauty</contestType>
+  </Move>
+  <Move>
+    <id>308</id>
+    <name>meteor-mash</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +2 if the Pokémon performs last in the turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>cool</contestType>
+  </Move>
+  <Move>
+    <id>309</id>
+    <name>astonish</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>A basic performance using a move known by the Pokémon.</flavorText>
+    <appeal>3</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>310</id>
+    <name>weather-ball</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +2 if the Judge's Voltage goes up.</flavorText>
+    <appeal>2</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>311</id>
+    <name>aromatherapy</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Increased Voltage is added to the performance score.</flavorText>
+    <appeal>0</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>312</id>
+    <name>fake-tears</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Prevents the Voltage from going down in the same turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>313</id>
+    <name>air-cutter</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>A basic performance using a move known by the Pokémon.</flavorText>
+    <appeal>3</appeal>
+    <contestType>cool</contestType>
+  </Move>
+  <Move>
+    <id>314</id>
+    <name>overheat</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +3 if the Pokémon that just went hit max Voltage.</flavorText>
+    <appeal>2</appeal>
+    <contestType>beauty</contestType>
+  </Move>
+  <Move>
+    <id>315</id>
+    <name>odor-sleuth</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +3 if two Pokémon raise the Voltage in a row.</flavorText>
+    <appeal>1</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>316</id>
+    <name>rock-tomb</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Enables the user to perform last in the next turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>317</id>
+    <name>silver-wind</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +2 if the Judge's Voltage goes up.</flavorText>
+    <appeal>2</appeal>
+    <contestType>beauty</contestType>
+  </Move>
+  <Move>
+    <id>318</id>
+    <name>metal-sound</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Lowers the Voltage of all Judges by one each.</flavorText>
+    <appeal>2</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>319</id>
+    <name>grass-whistle</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Prevents the Voltage from going down in the same turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>320</id>
+    <name>tickle</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Prevents the Voltage from going down in the same turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>cute</contestType>
+  </Move>
+  <Move>
+    <id>321</id>
+    <name>cosmic-power</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn double the score in the next turn.</flavorText>
+    <appeal>0</appeal>
+    <contestType>cool</contestType>
+  </Move>
+  <Move>
+    <id>322</id>
+    <name>water-spout</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +3 if the Pokémon that just went hit max Voltage.</flavorText>
+    <appeal>2</appeal>
+    <contestType>beauty</contestType>
+  </Move>
+  <Move>
+    <id>323</id>
+    <name>signal-beam</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +2 if the Judge's Voltage goes up.</flavorText>
+    <appeal>2</appeal>
+    <contestType>beauty</contestType>
+  </Move>
+  <Move>
+    <id>324</id>
+    <name>shadow-punch</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +2 if the Pokémon performs first in the turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>325</id>
+    <name>extrasensory</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +2 if the Pokémon performs first in the turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>cool</contestType>
+  </Move>
+  <Move>
+    <id>326</id>
+    <name>sky-uppercut</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +2 if the Pokémon performs first in the turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>cool</contestType>
+  </Move>
+  <Move>
+    <id>327</id>
+    <name>sand-tomb</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn a higher score the later the Pokémon performs.</flavorText>
+    <appeal>0</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>328</id>
+    <name>sheer-cold</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +15 if all the Pokémon choose the same Judge.</flavorText>
+    <appeal>0</appeal>
+    <contestType>beauty</contestType>
+  </Move>
+  <Move>
+    <id>329</id>
+    <name>muddy-water</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +2 if the Pokémon performs last in the turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>tough</contestType>
+  </Move>
+  <Move>
+    <id>330</id>
+    <name>bullet-seed</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Allows performance of the same move twice in a row.</flavorText>
+    <appeal>2</appeal>
+    <contestType>cool</contestType>
+  </Move>
+  <Move>
+    <id>331</id>
+    <name>aerial-ace</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +2 if the Pokémon performs first in the turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>cool</contestType>
+  </Move>
+  <Move>
+    <id>332</id>
+    <name>icicle-spear</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Allows performance of the same move twice in a row.</flavorText>
+    <appeal>2</appeal>
+    <contestType>beauty</contestType>
+  </Move>
+  <Move>
+    <id>333</id>
+    <name>iron-defense</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Prevents the Voltage from going up in the same turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>tough</contestType>
+  </Move>
+  <Move>
+    <id>334</id>
+    <name>block</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Prevents the Voltage from going up in the same turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>cute</contestType>
+  </Move>
+  <Move>
+    <id>335</id>
+    <name>howl</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn double the score in the next turn.</flavorText>
+    <appeal>0</appeal>
+    <contestType>cool</contestType>
+  </Move>
+  <Move>
+    <id>336</id>
+    <name>dragon-claw</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +2 if the Pokémon performs first in the turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>cool</contestType>
+  </Move>
+  <Move>
+    <id>337</id>
+    <name>frenzy-plant</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +3 if the Pokémon that just went hit max Voltage.</flavorText>
+    <appeal>2</appeal>
+    <contestType>cool</contestType>
+  </Move>
+  <Move>
+    <id>338</id>
+    <name>bulk-up</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn double the score in the next turn.</flavorText>
+    <appeal>0</appeal>
+    <contestType>beauty</contestType>
+  </Move>
+  <Move>
+    <id>339</id>
+    <name>bounce</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +3 if no other Pokémon has chosen the same Judge.</flavorText>
+    <appeal>1</appeal>
+    <contestType>cute</contestType>
+  </Move>
+  <Move>
+    <id>340</id>
+    <name>mud-shot</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Enables the user to perform last in the next turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>tough</contestType>
+  </Move>
+  <Move>
+    <id>341</id>
+    <name>poison-tail</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +2 if the Judge's Voltage goes up.</flavorText>
+    <appeal>2</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>342</id>
+    <name>covet</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Steals the Voltage of the Pokémon that just went.</flavorText>
+    <appeal>0</appeal>
+    <contestType>cute</contestType>
+  </Move>
+  <Move>
+    <id>343</id>
+    <name>volt-tackle</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +3 if the Pokémon that just went hit max Voltage.</flavorText>
+    <appeal>2</appeal>
+    <contestType>cool</contestType>
+  </Move>
+  <Move>
+    <id>344</id>
+    <name>magical-leaf</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +2 if the Pokémon performs first in the turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>beauty</contestType>
+  </Move>
+  <Move>
+    <id>345</id>
+    <name>water-sport</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Prevents the Voltage from going up in the same turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>cute</contestType>
+  </Move>
+  <Move>
+    <id>346</id>
+    <name>calm-mind</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn double the score in the next turn.</flavorText>
+    <appeal>0</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>347</id>
+    <name>leaf-blade</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +2 if the Pokémon performs first in the turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>cool</contestType>
+  </Move>
+  <Move>
+    <id>348</id>
+    <name>dragon-dance</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn double the score in the next turn.</flavorText>
+    <appeal>0</appeal>
+    <contestType>cool</contestType>
+  </Move>
+  <Move>
+    <id>349</id>
+    <name>rock-blast</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Allows performance of the same move twice in a row.</flavorText>
+    <appeal>2</appeal>
+    <contestType>tough</contestType>
+  </Move>
+  <Move>
+    <id>350</id>
+    <name>shock-wave</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +2 if the Pokémon performs first in the turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>cool</contestType>
+  </Move>
+  <Move>
+    <id>351</id>
+    <name>water-pulse</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +2 if the Pokémon performs first in the turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>beauty</contestType>
+  </Move>
+  <Move>
+    <id>352</id>
+    <name>doom-desire</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +2 if the Pokémon performs first in the turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>cool</contestType>
+  </Move>
+  <Move>
+    <id>353</id>
+    <name>psycho-boost</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +3 if the Pokémon that just went hit max Voltage.</flavorText>
+    <appeal>2</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>354</id>
+    <name>roost</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Increased Voltage is added to the performance score.</flavorText>
+    <appeal>0</appeal>
+    <contestType>cool</contestType>
+  </Move>
+  <Move>
+    <id>355</id>
+    <name>gravity</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Prevents the Voltage from going up in the same turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>beauty</contestType>
+  </Move>
+  <Move>
+    <id>356</id>
+    <name>miracle-eye</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +3 if two Pokémon raise the Voltage in a row.</flavorText>
+    <appeal>1</appeal>
+    <contestType>cute</contestType>
+  </Move>
+  <Move>
+    <id>357</id>
+    <name>wake-up-slap</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Raises the score if the Voltage is low.</flavorText>
+    <appeal>0</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>358</id>
+    <name>hammer-arm</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Enables the user to perform last in the next turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>cool</contestType>
+  </Move>
+  <Move>
+    <id>359</id>
+    <name>gyro-ball</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earns double the score on the final performance.</flavorText>
+    <appeal>2</appeal>
+    <contestType>beauty</contestType>
+  </Move>
+  <Move>
+    <id>360</id>
+    <name>healing-wish</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Increased Voltage is added to the performance score.</flavorText>
+    <appeal>0</appeal>
+    <contestType>cute</contestType>
+  </Move>
+  <Move>
+    <id>361</id>
+    <name>brine</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +2 if the Judge's Voltage goes up.</flavorText>
+    <appeal>2</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>362</id>
+    <name>natural-gift</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +2 if the Pokémon performs last in the turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>cool</contestType>
+  </Move>
+  <Move>
+    <id>363</id>
+    <name>feint</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Raises the score if the Voltage is low.</flavorText>
+    <appeal>0</appeal>
+    <contestType>beauty</contestType>
+  </Move>
+  <Move>
+    <id>364</id>
+    <name>pluck</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Steals the Voltage of the Pokémon that just went.</flavorText>
+    <appeal>0</appeal>
+    <contestType>cute</contestType>
+  </Move>
+  <Move>
+    <id>365</id>
+    <name>tailwind</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Enables the user to perform first in the next turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>366</id>
+    <name>acupressure</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn double the score in the next turn.</flavorText>
+    <appeal>0</appeal>
+    <contestType>cool</contestType>
+  </Move>
+  <Move>
+    <id>367</id>
+    <name>metal-burst</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earns double the score on the final performance.</flavorText>
+    <appeal>2</appeal>
+    <contestType>beauty</contestType>
+  </Move>
+  <Move>
+    <id>368</id>
+    <name>u-turn</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Raises the score if the Voltage is low.</flavorText>
+    <appeal>0</appeal>
+    <contestType>cute</contestType>
+  </Move>
+  <Move>
+    <id>369</id>
+    <name>close-combat</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +3 if the Pokémon that just went hit max Voltage.</flavorText>
+    <appeal>2</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>370</id>
+    <name>payback</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +3 if no other Pokémon has chosen the same Judge.</flavorText>
+    <appeal>1</appeal>
+    <contestType>cool</contestType>
+  </Move>
+  <Move>
+    <id>371</id>
+    <name>assurance</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earns double the score on the final performance.</flavorText>
+    <appeal>2</appeal>
+    <contestType>beauty</contestType>
+  </Move>
+  <Move>
+    <id>372</id>
+    <name>embargo</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Prevents the Voltage from going up in the same turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>cute</contestType>
+  </Move>
+  <Move>
+    <id>373</id>
+    <name>fling</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +3 if the Pokémon gets the lowest score.</flavorText>
+    <appeal>1</appeal>
+    <contestType>tough</contestType>
+  </Move>
+  <Move>
+    <id>374</id>
+    <name>psycho-shift</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Raises the score if the Voltage is low.</flavorText>
+    <appeal>0</appeal>
+    <contestType>cool</contestType>
+  </Move>
+  <Move>
+    <id>375</id>
+    <name>trump-card</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn a higher score the later the Pokémon performs.</flavorText>
+    <appeal>0</appeal>
+    <contestType>cool</contestType>
+  </Move>
+  <Move>
+    <id>376</id>
+    <name>heal-block</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Prevents the Voltage from going up in the same turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>cute</contestType>
+  </Move>
+  <Move>
+    <id>377</id>
+    <name>wring-out</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +3 if the Pokémon that just went hit max Voltage.</flavorText>
+    <appeal>2</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>378</id>
+    <name>power-trick</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Raises the score if the Voltage is low.</flavorText>
+    <appeal>0</appeal>
+    <contestType>cool</contestType>
+  </Move>
+  <Move>
+    <id>379</id>
+    <name>gastro-acid</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Prevents the Voltage from going up in the same turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>beauty</contestType>
+  </Move>
+  <Move>
+    <id>380</id>
+    <name>lucky-chant</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Prevents the Voltage from going up in the same turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>cute</contestType>
+  </Move>
+  <Move>
+    <id>381</id>
+    <name>me-first</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Enables the user to perform first in the next turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>cute</contestType>
+  </Move>
+  <Move>
+    <id>382</id>
+    <name>copycat</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Steals the Voltage of the Pokémon that just went.</flavorText>
+    <appeal>0</appeal>
+    <contestType>cool</contestType>
+  </Move>
+  <Move>
+    <id>383</id>
+    <name>power-swap</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Raises the score if the Voltage is low.</flavorText>
+    <appeal>0</appeal>
+    <contestType>beauty</contestType>
+  </Move>
+  <Move>
+    <id>384</id>
+    <name>guard-swap</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Raises the score if the Voltage is low.</flavorText>
+    <appeal>0</appeal>
+    <contestType>cute</contestType>
+  </Move>
+  <Move>
+    <id>385</id>
+    <name>punishment</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +3 if the Pokémon gets the lowest score.</flavorText>
+    <appeal>1</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>386</id>
+    <name>last-resort</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn a higher score the later the Pokémon performs.</flavorText>
+    <appeal>0</appeal>
+    <contestType>cute</contestType>
+  </Move>
+  <Move>
+    <id>387</id>
+    <name>worry-seed</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Prevents the Voltage from going down in the same turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>beauty</contestType>
+  </Move>
+  <Move>
+    <id>388</id>
+    <name>sucker-punch</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Enables the user to perform first in the next turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>389</id>
+    <name>toxic-spikes</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Prevents the Voltage from going up in the same turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>390</id>
+    <name>heart-swap</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Raises the score if the Voltage is low.</flavorText>
+    <appeal>0</appeal>
+    <contestType>cool</contestType>
+  </Move>
+  <Move>
+    <id>391</id>
+    <name>aqua-ring</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Increased Voltage is added to the performance score.</flavorText>
+    <appeal>0</appeal>
+    <contestType>beauty</contestType>
+  </Move>
+  <Move>
+    <id>392</id>
+    <name>magnet-rise</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Prevents the Voltage from going up in the same turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>cute</contestType>
+  </Move>
+  <Move>
+    <id>393</id>
+    <name>flare-blitz</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +3 if the Pokémon that just went hit max Voltage.</flavorText>
+    <appeal>2</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>394</id>
+    <name>force-palm</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +2 if the Pokémon performs last in the turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>cool</contestType>
+  </Move>
+  <Move>
+    <id>395</id>
+    <name>aura-sphere</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +2 if the Pokémon performs first in the turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>beauty</contestType>
+  </Move>
+  <Move>
+    <id>396</id>
+    <name>rock-polish</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Enables the user to perform first in the next turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>tough</contestType>
+  </Move>
+  <Move>
+    <id>397</id>
+    <name>poison-jab</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +2 if the Judge's Voltage goes up.</flavorText>
+    <appeal>2</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>398</id>
+    <name>dark-pulse</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +2 if the Pokémon performs first in the turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>cool</contestType>
+  </Move>
+  <Move>
+    <id>399</id>
+    <name>night-slash</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>A basic performance using a move known by the Pokémon.</flavorText>
+    <appeal>3</appeal>
+    <contestType>beauty</contestType>
+  </Move>
+  <Move>
+    <id>400</id>
+    <name>aqua-tail</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>A basic performance using a move known by the Pokémon.</flavorText>
+    <appeal>3</appeal>
+    <contestType>cute</contestType>
+  </Move>
+  <Move>
+    <id>401</id>
+    <name>seed-bomb</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>A basic performance using a move known by the Pokémon.</flavorText>
+    <appeal>3</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>402</id>
+    <name>air-slash</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +2 if the Pokémon performs first in the turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>cool</contestType>
+  </Move>
+  <Move>
+    <id>403</id>
+    <name>x-scissor</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +2 if the Pokémon performs first in the turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>beauty</contestType>
+  </Move>
+  <Move>
+    <id>404</id>
+    <name>bug-buzz</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +2 if the Judge's Voltage goes up.</flavorText>
+    <appeal>2</appeal>
+    <contestType>cute</contestType>
+  </Move>
+  <Move>
+    <id>405</id>
+    <name>dragon-pulse</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +2 if the Judge's Voltage goes up.</flavorText>
+    <appeal>2</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>406</id>
+    <name>dragon-rush</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +2 if the Pokémon performs last in the turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>cool</contestType>
+  </Move>
+  <Move>
+    <id>407</id>
+    <name>power-gem</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>A basic performance using a move known by the Pokémon.</flavorText>
+    <appeal>3</appeal>
+    <contestType>beauty</contestType>
+  </Move>
+  <Move>
+    <id>408</id>
+    <name>drain-punch</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +3 if two Pokémon raise the Voltage in a row.</flavorText>
+    <appeal>1</appeal>
+    <contestType>beauty</contestType>
+  </Move>
+  <Move>
+    <id>409</id>
+    <name>vacuum-wave</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Enables the user to perform first in the next turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>410</id>
+    <name>focus-blast</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +2 if the Pokémon performs first in the turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>cool</contestType>
+  </Move>
+  <Move>
+    <id>411</id>
+    <name>energy-ball</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +2 if the Pokémon performs first in the turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>beauty</contestType>
+  </Move>
+  <Move>
+    <id>412</id>
+    <name>brave-bird</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +2 if the Pokémon performs last in the turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>cute</contestType>
+  </Move>
+  <Move>
+    <id>413</id>
+    <name>earth-power</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +2 if the Pokémon performs last in the turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>414</id>
+    <name>switcheroo</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Steals the Voltage of the Pokémon that just went.</flavorText>
+    <appeal>0</appeal>
+    <contestType>cool</contestType>
+  </Move>
+  <Move>
+    <id>415</id>
+    <name>giga-impact</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +3 if the Pokémon that just went hit max Voltage.</flavorText>
+    <appeal>2</appeal>
+    <contestType>beauty</contestType>
+  </Move>
+  <Move>
+    <id>416</id>
+    <name>nasty-plot</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn double the score in the next turn.</flavorText>
+    <appeal>0</appeal>
+    <contestType>cute</contestType>
+  </Move>
+  <Move>
+    <id>417</id>
+    <name>bullet-punch</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Enables the user to perform first in the next turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>418</id>
+    <name>avalanche</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earns double the score on the final performance.</flavorText>
+    <appeal>2</appeal>
+    <contestType>cool</contestType>
+  </Move>
+  <Move>
+    <id>419</id>
+    <name>ice-shard</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Enables the user to perform first in the next turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>beauty</contestType>
+  </Move>
+  <Move>
+    <id>420</id>
+    <name>shadow-claw</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +2 if the Pokémon performs first in the turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>cute</contestType>
+  </Move>
+  <Move>
+    <id>421</id>
+    <name>thunder-fang</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>A basic performance using a move known by the Pokémon.</flavorText>
+    <appeal>3</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>422</id>
+    <name>ice-fang</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>A basic performance using a move known by the Pokémon.</flavorText>
+    <appeal>3</appeal>
+    <contestType>cool</contestType>
+  </Move>
+  <Move>
+    <id>423</id>
+    <name>fire-fang</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>A basic performance using a move known by the Pokémon.</flavorText>
+    <appeal>3</appeal>
+    <contestType>beauty</contestType>
+  </Move>
+  <Move>
+    <id>424</id>
+    <name>shadow-sneak</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Enables the user to perform first in the next turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>425</id>
+    <name>mud-bomb</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +2 if the Pokémon performs last in the turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>426</id>
+    <name>psycho-cut</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +2 if the Pokémon performs first in the turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>cool</contestType>
+  </Move>
+  <Move>
+    <id>427</id>
+    <name>zen-headbutt</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +2 if the Pokémon performs last in the turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>beauty</contestType>
+  </Move>
+  <Move>
+    <id>428</id>
+    <name>mirror-shot</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +2 if the Pokémon performs first in the turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>cute</contestType>
+  </Move>
+  <Move>
+    <id>429</id>
+    <name>flash-cannon</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +2 if the Pokémon performs first in the turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>430</id>
+    <name>rock-climb</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +2 if the Pokémon performs last in the turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>cool</contestType>
+  </Move>
+  <Move>
+    <id>431</id>
+    <name>defog</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Prevents the Voltage from going up in the same turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>beauty</contestType>
+  </Move>
+  <Move>
+    <id>432</id>
+    <name>trick-room</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Makes the order of contestants random in the next turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>cute</contestType>
+  </Move>
+  <Move>
+    <id>433</id>
+    <name>draco-meteor</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +3 if the Pokémon that just went hit max Voltage.</flavorText>
+    <appeal>2</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>434</id>
+    <name>discharge</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +2 if the Pokémon performs first in the turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>cool</contestType>
+  </Move>
+  <Move>
+    <id>435</id>
+    <name>lava-plume</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +2 if the Pokémon performs first in the turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>tough</contestType>
+  </Move>
+  <Move>
+    <id>436</id>
+    <name>leaf-storm</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +3 if the Pokémon that just went hit max Voltage.</flavorText>
+    <appeal>2</appeal>
+    <contestType>cute</contestType>
+  </Move>
+  <Move>
+    <id>437</id>
+    <name>power-whip</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>A basic performance using a move known by the Pokémon.</flavorText>
+    <appeal>3</appeal>
+    <contestType>beauty</contestType>
+  </Move>
+  <Move>
+    <id>438</id>
+    <name>rock-wrecker</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +3 if the Pokémon that just went hit max Voltage.</flavorText>
+    <appeal>2</appeal>
+    <contestType>tough</contestType>
+  </Move>
+  <Move>
+    <id>439</id>
+    <name>cross-poison</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>A basic performance using a move known by the Pokémon.</flavorText>
+    <appeal>3</appeal>
+    <contestType>cool</contestType>
+  </Move>
+  <Move>
+    <id>440</id>
+    <name>gunk-shot</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>A basic performance using a move known by the Pokémon.</flavorText>
+    <appeal>3</appeal>
+    <contestType>cool</contestType>
+  </Move>
+  <Move>
+    <id>441</id>
+    <name>iron-head</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +2 if the Pokémon performs last in the turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>tough</contestType>
+  </Move>
+  <Move>
+    <id>442</id>
+    <name>magnet-bomb</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>A basic performance using a move known by the Pokémon.</flavorText>
+    <appeal>3</appeal>
+    <contestType>cool</contestType>
+  </Move>
+  <Move>
+    <id>443</id>
+    <name>stone-edge</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +2 if the Judge's Voltage goes up.</flavorText>
+    <appeal>2</appeal>
+    <contestType>tough</contestType>
+  </Move>
+  <Move>
+    <id>444</id>
+    <name>captivate</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Prevents the Voltage from going down in the same turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>beauty</contestType>
+  </Move>
+  <Move>
+    <id>445</id>
+    <name>stealth-rock</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Prevents the Voltage from going up in the same turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>cool</contestType>
+  </Move>
+  <Move>
+    <id>446</id>
+    <name>grass-knot</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +2 if the Judge's Voltage goes up.</flavorText>
+    <appeal>2</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>447</id>
+    <name>chatter</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +3 if the Pokémon gets the lowest score.</flavorText>
+    <appeal>1</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>448</id>
+    <name>judgment</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Makes the order of contestants random in the next turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>449</id>
+    <name>bug-bite</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Steals the Voltage of the Pokémon that just went.</flavorText>
+    <appeal>0</appeal>
+    <contestType>tough</contestType>
+  </Move>
+  <Move>
+    <id>450</id>
+    <name>charge-beam</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +2 if the Pokémon performs first in the turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>beauty</contestType>
+  </Move>
+  <Move>
+    <id>451</id>
+    <name>wood-hammer</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +2 if the Pokémon performs last in the turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>tough</contestType>
+  </Move>
+  <Move>
+    <id>452</id>
+    <name>aqua-jet</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Enables the user to perform first in the next turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>beauty</contestType>
+  </Move>
+  <Move>
+    <id>453</id>
+    <name>attack-order</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +2 if the Judge's Voltage goes up.</flavorText>
+    <appeal>2</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>454</id>
+    <name>defend-order</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn double the score in the next turn.</flavorText>
+    <appeal>0</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>455</id>
+    <name>heal-order</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Increased Voltage is added to the performance score.</flavorText>
+    <appeal>0</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>456</id>
+    <name>head-smash</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +3 if the Pokémon that just went hit max Voltage.</flavorText>
+    <appeal>2</appeal>
+    <contestType>tough</contestType>
+  </Move>
+  <Move>
+    <id>457</id>
+    <name>double-hit</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Allows performance of the same move twice in a row.</flavorText>
+    <appeal>2</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>458</id>
+    <name>roar-of-time</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +3 if the Pokémon that just went hit max Voltage.</flavorText>
+    <appeal>2</appeal>
+    <contestType>cool</contestType>
+  </Move>
+  <Move>
+    <id>459</id>
+    <name>spacial-rend</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +2 if the Judge's Voltage goes up.</flavorText>
+    <appeal>2</appeal>
+    <contestType>tough</contestType>
+  </Move>
+  <Move>
+    <id>460</id>
+    <name>lunar-dance</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Increased Voltage is added to the performance score.</flavorText>
+    <appeal>0</appeal>
+    <contestType>beauty</contestType>
+  </Move>
+  <Move>
+    <id>461</id>
+    <name>crush-grip</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earns double the score on the final performance.</flavorText>
+    <appeal>2</appeal>
+    <contestType>tough</contestType>
+  </Move>
+  <Move>
+    <id>462</id>
+    <name>magma-storm</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Allows performance of the same move twice in a row.</flavorText>
+    <appeal>2</appeal>
+    <contestType>tough</contestType>
+  </Move>
+  <Move>
+    <id>463</id>
+    <name>dark-void</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Prevents the Voltage from going down in the same turn.</flavorText>
+    <appeal>2</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>464</id>
+    <name>seed-flare</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +3 if the Pokémon that just went hit max Voltage.</flavorText>
+    <appeal>2</appeal>
+    <contestType>cool</contestType>
+  </Move>
+  <Move>
+    <id>465</id>
+    <name>ominous-wind</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn double the score in the next turn.</flavorText>
+    <appeal>0</appeal>
+    <contestType>clever</contestType>
+  </Move>
+  <Move>
+    <id>466</id>
+    <name>shadow-force</name>
+    <learnedLevel>0</learnedLevel>
+    <flavorText>Earn +3 if the Pokémon that just went hit max Voltage.</flavorText>
+    <appeal>2</appeal>
+    <contestType>clever</contestType>
+  </Move>
+</ArrayOfMove>
