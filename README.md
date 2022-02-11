@@ -8,3 +8,8 @@
  breeding, caring for, and raising Pokemon. The project has been tested by a group of friends on a private Discord server, and the current Release build has no known bugs. 
  
  Currently Testing: Contest update. Requires a bit more testing to ensure that move effects are working properly.
+
+
+--UPDATE 2/10/2022--
+
+Discord as a platform is no longer viable with the project. I've moved it to a Unity 2D game instead. I've reached feature-parity with the old version, as well as a bunch of interesting new features. We are now back to the same place, but with a new engine: trying to figure out contests.
